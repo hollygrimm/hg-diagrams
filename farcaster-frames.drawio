@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-01T15:44:09.709Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="hMxFRPmjs_I-SVIkh6d2" version="24.4.13" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-02T21:12:06.463Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="IZO0GJaK-s-CPv7ONUma" version="24.4.13" type="github">
   <diagram name="Page-1" id="ZKqkwvecnVCzXAj3dSVy">
-    <mxGraphModel dx="2074" dy="1121" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="731" dy="1113" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -61,6 +61,17 @@
         <mxCell id="qRFt9-S01jpdzBs1n6ap-36" value="Links" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
           <mxGeometry x="100" y="720" width="100" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="x3xcGYVn76YrgQoR4-bJ-1" value="&lt;div&gt;Frameworks&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;frog.fm (Node.js, Vercel...)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- includes dev tools&lt;/div&gt;&lt;div&gt;- transactions&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="70" y="30" width="270" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="x3xcGYVn76YrgQoR4-bJ-2" value="&lt;div&gt;Hubs&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Pinata Hub (free)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="70" y="250" width="270" height="180" as="geometry" />
+        </mxCell>
+        <UserObject label="Frog.fm Tutorial" link="https://youtu.be/zz_q_YkeWIk?si=8RWTil8OGK6SbYyk" id="x3xcGYVn76YrgQoR4-bJ-3">
+          <mxCell style="text;whiteSpace=wrap;" vertex="1" parent="1">
+            <mxGeometry x="110" y="910" width="330" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
