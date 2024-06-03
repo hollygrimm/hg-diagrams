@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-03T20:26:20.462Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="_xkRhJtqI7Xcf0-qKiMF" version="24.4.13" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-03T20:32:50.555Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="ahzH2AY3u8DpRAdXUbNL" version="24.4.13" type="github">
   <diagram name="Page-1" id="Lbbw28RQgVFOFl811GVP">
     <mxGraphModel dx="876" dy="1065" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -185,8 +185,24 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="9edgcBYSyl0drh00GC53-71" value="Diagonal elements" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="9edgcBYSyl0drh00GC53-71" value="Diagonal elements are positive examples" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="490" y="790" width="60" height="30" as="geometry" />
+        </mxCell>
+        <UserObject label="https://arxiv.org/abs/2305.05665" link="https://arxiv.org/abs/2305.05665" id="9edgcBYSyl0drh00GC53-72">
+          <mxCell style="text;whiteSpace=wrap;" vertex="1" parent="1">
+            <mxGeometry x="200" y="920" width="200" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="9edgcBYSyl0drh00GC53-74" value="ImageBind: One Embedding Space To Bind Them All" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="45" y="900" width="320" height="40" as="geometry" />
+        </mxCell>
+        <UserObject label="https://github.com/facebookresearch/ImageBind" link="https://github.com/facebookresearch/ImageBind" id="9edgcBYSyl0drh00GC53-75">
+          <mxCell style="text;whiteSpace=wrap;" vertex="1" parent="1">
+            <mxGeometry x="200" y="940" width="290" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="9edgcBYSyl0drh00GC53-76" value="LI,M = − log( exp(qi ⊺ *ki/τ )&#xa;                  ---------------------------------&#xa;                  exp(qi⊺ * ki/τ ) + SUM j̸ =i exp(qi⊺ * kj /τ )" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="170" y="1030" width="390" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
