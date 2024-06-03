@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-03T20:32:50.555Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="ahzH2AY3u8DpRAdXUbNL" version="24.4.13" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-03T20:33:32.114Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="I1er2cGZZmsCCEwUyXSD" version="24.4.13" type="github">
   <diagram name="Page-1" id="Lbbw28RQgVFOFl811GVP">
     <mxGraphModel dx="876" dy="1065" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -202,7 +202,7 @@
           </mxCell>
         </UserObject>
         <mxCell id="9edgcBYSyl0drh00GC53-76" value="LI,M = − log( exp(qi ⊺ *ki/τ )&#xa;                  ---------------------------------&#xa;                  exp(qi⊺ * ki/τ ) + SUM j̸ =i exp(qi⊺ * kj /τ )" style="text;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="170" y="1030" width="390" height="110" as="geometry" />
+          <mxGeometry x="70" y="990" width="390" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
